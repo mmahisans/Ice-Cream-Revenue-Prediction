@@ -5,7 +5,7 @@ Dataset Used: https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-datase
 
 ## Method
 1. Load the CSV file into Google Colab
-2. Import pandas, skelearn, and matplotlib libraries
+2. Import pandas, numpy, sklearn, and matplotlib libraries
 3. Input the data pd.read and determine the x and y variable
    
 ### Linear Interpolation
